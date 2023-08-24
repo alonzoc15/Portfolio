@@ -238,7 +238,7 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "Full Stack Java Developer",
+          title: "Full Stack Software Developer II",
           company: "FedEx Services",
           company_url: "https://www.fedex.com/",
           logo_path: "FedEx_logo.png",
