@@ -1,12 +1,12 @@
 {
   "private": true,
   "name": "personalPortfolio",
-  "homepage": "https://alonzoc15.github.io",
+  "homepage": "https://alonzoc15.github.io/Portfolio",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
