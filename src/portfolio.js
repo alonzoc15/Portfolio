@@ -242,7 +242,7 @@ const experience = {
           company: "FedEx Services",
           company_url: "https://www.fedex.com/",
           logo_path: "FedEx_logo.png",
-          duration: "March 2022 - July 2023",
+          duration: "March 2022 - August 2023",
           location: "Tampa, FL",
           description:
             "Full Stack Java Developer at FedEx Services where I oversee the end to end life cycle of software applications and products in a Agile SDLC methodology with a fully remote team. As a member of the Linehual team I have managed the software lifecycle of various products and applications. Some of the tools that I am fortunate enough to have added to skillset to contribute to my team include Java, SQL, WinSCP, Linux, and more.",
